@@ -4,7 +4,8 @@
 
 # Objective
 
-    Create and optimize a Power BI dashboard and report, identifying key insights from the data to present to stakeholders, specifically the sales team and executive board.
+    Create and optimize a Power BI dashboard and report, identifying key insights from the data to present to stakeholders, 
+    specifically the sales team and executive board.
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
