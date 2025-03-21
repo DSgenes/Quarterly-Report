@@ -82,4 +82,4 @@ Successfully built a Power BI report for the sales team and a dashboard for the 
 
 ![image_alt](https://github.com/DSgenes/Quarterly-Report/blob/8c22c9455b68e40101985f93cf0b757a52e79e16/Screenshot%201.png)
 
-![image_alt]()
+![image_alt](https://github.com/DSgenes/Quarterly-Report/blob/31726598866053dd6d18bc8d91accca6c304797a/Screenshot%203.png)
