@@ -80,3 +80,6 @@
 # Conclusion
 Successfully built a Power BI report for the sales team and a dashboard for the executive board. Interactive slicers and filters enable in-depth analysis, while the dashboard focuses on key metrics. Both elements effectively convey the story, empowering stakeholders to make informed decisions.
 
+![image_alt](https://github.com/DSgenes/Quarterly-Report/blob/8c22c9455b68e40101985f93cf0b757a52e79e16/Screenshot%201.png)
+
+![image_alt]()
